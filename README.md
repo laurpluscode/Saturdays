@@ -1,1 +1,2 @@
-# Sundays
+# Sunday
+
